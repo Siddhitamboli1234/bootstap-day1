@@ -1,0 +1,54 @@
+.Join-btn {
+    background-color:rgb(219, 213, 213);
+    color:black;
+    padding-top:10px ;
+    padding-bottom:10px;
+    padding-left:10px;
+    padding-right:10px;
+    font-weight:bold;
+    border-radius:20px;
+    border: none;
+    opacity:1.0;
+}                                                             
+.Join-btn:hover {
+    opacity:1.0;
+    background-color: grey;
+    cursor:pointer;
+}
+
+
+.Subscribe-btn {
+    background-color:black;
+    color:white;
+    padding-top:10px ;
+    padding-bottom:10px;
+    padding-left:10px;
+    padding-right:10px;
+    font-weight:bold;
+    border-radius:20px;
+    opacity:1.0;
+}                                                             
+.Subscribe-btn:hover {
+    opacity:1.0;
+    background-color: grey;
+    cursor:pointer;
+}
+
+
+
+.Getitnow-btn {
+    background-color:rgb(228, 224, 224);
+    color:rgb(24, 96, 230);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius:20px;
+    border: 1px solid rgb(43, 84, 194);
+    opacity:1.0;
+}                                                             
+.Getitnow-btn:hover {
+    opacity:1.0;
+    background-color: aquamarine;
+    cursor:pointer;
+}
